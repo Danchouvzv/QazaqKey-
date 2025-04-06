@@ -1,0 +1,71 @@
+[
+  {     
+    "title": "Зат есім",
+    "imagem": "blocks",
+    "questionAnswered": 1,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Зат есім",
+        "answers": [
+         {"title": "Зейін"},
+         {"title": "Білгіш"},
+         {"title": "Әдеп-ғұрып"},
+         {"title": "Тестке өту", "isRight": true}
+        ]
+      },
+      {
+        "title": "Жалпы есімді белгілеңіз",
+        "answers": [
+          {"title": "«Абай жолы»"},
+          {"title": "Құлагер"},
+          {"title": "Балқаш"},
+          {"title": "«Жас Алаш»", "isRight": true}
+        ]
+      },
+      {
+        "title": "Жалпы есімді белгілеңіз",
+        "answers": [
+          {"title": "«Абай жолы»"},
+          {"title": "Құлагер"},
+          {"title": "Балқаш"},
+          {"title": "«Жас Алаш»", "isRight": true}
+        ]
+      }
+    ]
+  },
+   {     
+    "title": "Сын есім",
+    "imagem": "blocks",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Жалпы есімді белгілеңіз",
+        "answers": [
+          {"title": "«Абай жолы»"},
+          {"title": "Құлагер"},
+          {"title": "Балқаш"},
+          {"title": "«Жас Алаш»", "isRight": true}
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Сын есім",
+    "imagem": "blocks",
+    "questionAnswered": 0,
+    "level": "facil",
+    "questions": [
+      {
+        "title": "Жалпы есімді белгілеңіз",
+        "answers": [
+          {"title": "«Абай жолы»"},
+          {"title": "Құлагер"},
+          {"title": "Балқаш"},
+          {"title": "«Жас Алаш»", "isRight": true}
+        ]
+      }
+    ]
+  }
+]
