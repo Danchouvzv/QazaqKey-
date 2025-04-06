@@ -49,7 +49,7 @@ The backend includes the following features:
 
 <img src="https://user-images.githubusercontent.com/74404406/228928391-a2347cc8-11fb-42ab-ba53-62c1f64f38a6.jpg" alt="welcome_page" width="300" style="margin-right: 20px; margin-left: 20px;">
 
-<img src="https://user-images.githubusercontent.com/74404406/228928445-2acefb1e-ed11-4812-8ab5-85b7390d9948.jpg" alt="main_page" width="300" style="margin-right: 20px; margin-left: 20px;">
+
 </div>
 
 <div style="display: flex; flex-direction: row;">
